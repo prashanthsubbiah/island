@@ -1,0 +1,26 @@
+{
+  "name": "island",
+  "version": "0.1.0",
+  "description": "island",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified! Configure in package.json\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cors": "^2.8.0",
+    "express": "^4.14.0",
+    "mongodb": "^2.2.9",
+    "morgan": "^1.7.0",
+    "winston": "^2.2.0"
+  },
+  "repository": "",
+  "keywords": [
+    "node.js",
+    "eclipse",
+    "nodeclipse"
+  ],
+  "author": "Prashanth Subbiah",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
